@@ -77,4 +77,5 @@ ___
 ___
 
 - **Customer-Specific Favorite:** Which item was the most popular for each customer?
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(6).png?raw=true)
 ![image alt](
