@@ -98,8 +98,14 @@ ___
 ![mage alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/What%20is%20the%20total%20items%20and%20amount%20spent%20for%20each%20member%20before%20they%20became%20a%20member.png?raw=true)
 ___
 
+- **Points in First Week of Membership:** In the first week after joining (including the join date), customers earn 2× points on all items (not just sushi). How many points do Customer A and Customer B have at the end of January?
+![image alt](
+
 - Customer Spending:What is the total amount each customer spent at the restaurant?
 ![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(2).png?raw=true)
-![image alt](
+
+___
+
+
 
 
