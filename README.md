@@ -72,7 +72,7 @@ ___
 
 
 - **Most Purchased Item Overall:** Which item was purchased the most by all customers, and how many times?
-![image alt](
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(5).png?raw=true)
 
 
 
