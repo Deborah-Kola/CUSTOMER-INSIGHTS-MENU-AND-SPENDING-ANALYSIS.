@@ -37,6 +37,7 @@ ___
 ## RESULTS, INSIGHT AND RECOMMENDATION.
 - Points Calculation: If each $1 spent equates to 10 points and sushi has a 2× points multiplier, how many points would each customer have?
 
-![image alt](
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(12).png?raw=true)
+
 
 
