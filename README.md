@@ -82,4 +82,5 @@ ___
 ___
 
 - **First Purchase After Membership:** Which item was purchased first by the customer after they became a member?
-![image alt]
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(7).png?raw=true)
+![image alt](
