@@ -73,7 +73,8 @@ ___
 
 - **Most Purchased Item Overall:** Which item was purchased the most by all customers, and how many times?
 ![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(5).png?raw=true)
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/What%20is%20the%20most%20purchased%20item%20on%20the%20menu%20and%20how%20many%20times%20was%20it%20purchased%20by%20all%20customers.png?raw=true)
+___
 
-
-
-
+- **Customer-Specific Favorite:** Which item was the most popular for each customer?
+![image alt](
