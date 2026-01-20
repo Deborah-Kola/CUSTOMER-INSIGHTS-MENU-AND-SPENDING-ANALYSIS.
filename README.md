@@ -93,6 +93,8 @@ ___
 ___
 
 - **Total Items & Spending Before Membership:** What is the total number of items and total amount spent for each customer before they became a member?
-![image alt](
+
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(9).png?raw=true)
+![mage alt](
 
 
