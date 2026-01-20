@@ -21,7 +21,7 @@ ___
 ## BUSINESS QUESTIONS
 I answered the following questions provided by the restaurant owner:
 
-- **Customer Spending:** What is the total amount each customer spent at the restaurant?  
+- Points Calculation: If each $1 spent equates to 10 points and sushi has a 2× points multiplier, how many points would each customer have? 
 - **Visit Frequency:** How many days has each customer visited the restaurant?  
 - **First Purchased Item:** What was the first item from the menu purchased by each customer?  
 - **Most Purchased Item Overall:** Which item was purchased the most by all customers, and how many times?  
@@ -29,7 +29,7 @@ I answered the following questions provided by the restaurant owner:
 - **First Purchase After Membership:** Which item was purchased first by the customer after they became a member?  
 - **Purchase Before Membership:** Which item was purchased just before the customer became a member?  
 - **Total Items & Spending Before Membership:** What is the total number of items and total amount spent for each customer before they became a member?  
-- **Points Calculation:** If each $1 spent equates to 10 points and sushi has a 2× points multiplier, how many points would each customer have?  
+- Customer Spending:What is the total amount each customer spent at the restaurant? 
 - **Points in First Week of Membership:** In the first week after joining (including the join date), customers earn 2× points on all items (not just sushi). How many points do Customer A and Customer B have at the end of January?  
 
 Each question is answered using SQL queries, and the results are documented in this repository to provide actionable insights for the restaurant owner.
