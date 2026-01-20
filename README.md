@@ -67,8 +67,12 @@ ___
 
 - **First Purchased Item:** What was the first item from the menu purchased by each customer?
 ![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(4).png?raw=true)
-![image alt](
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/WHAT%20WAS%20THE%20FIRST%20ITEM%20FROM%20THE%20MENU%20PURCHASED%20BY%20EACH%20CUSTOMER.png?raw=true)
+___
 
+
+- **Most Purchased Item Overall:** Which item was purchased the most by all customers, and how many times?
+![image alt](
 
 
 
