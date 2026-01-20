@@ -62,7 +62,11 @@ ___
 
 - **Visit Frequency:** How many days has each customer visited the restaurant?
 ![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(3).png?raw=true)
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/HOWMANYDAYSHASEACHCUSTOMERVISITEDTHERESTAURANT.png?raw=true)
+___
 
+- **First Purchased Item:** What was the first item from the menu purchased by each customer?
+![image alt](
 
 
 
