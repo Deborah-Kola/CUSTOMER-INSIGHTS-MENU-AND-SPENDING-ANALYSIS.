@@ -10,3 +10,5 @@ ___
 Danny, the restaurant owner, wants to better understand his customers—how often they visit, how much they spend, and which menu items they love most.
 This SQL case study aims to answer these business questions, providing actionable insights that can guide decisions around enhancing the loyalty program and creating a more personalized customer experience.
 The repository contains all SQL queries, datasets, and results from the analysis.
+___
+
