@@ -66,6 +66,7 @@ ___
 ___
 
 - **First Purchased Item:** What was the first item from the menu purchased by each customer?
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(4).png?raw=true)
 ![image alt](
 
 
