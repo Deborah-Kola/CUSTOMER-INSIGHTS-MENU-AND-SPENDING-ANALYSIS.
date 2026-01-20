@@ -40,5 +40,27 @@ ___
 ![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(12).png?raw=true)
 ![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/If%20each%20$1%20spent%20equates%20to%2010%20points%20and%20sushi%20has%20a%202x%20points%20multiplier%20-%20how%20many%20points%20would%20each%20customer%20have.png?raw=true)
 
+### INSIGHTS
+- Customer B is the top spender: With 940 points, Customer B has the highest total, indicating either frequent purchases or a preference for high-value items like sushi.
+- Sushi drives point accumulation: The 2x multiplier for sushi significantly boosts point totals. Customers who favor sushi earn more rewards.
+- Customer C lags behind: With only 360 points, Customer C is far behind A and B, suggesting lower engagement or less interest in premium items.
+
+### RECOMMENDATIONS
+- Target high-value customers with exclusive offers:
+  - Create a VIP loyalty tier for customers like B who consistently spend more.
+  - Offer early access to new menu items or personalized discounts.
+- Promote sushi to boost engagement:
+  - Highlight the 2x points multiplier in marketing campaigns.
+  - Bundle sushi with other items to encourage trial and increase average spend.
+- Re-engage low-point customers:
+  - Send personalized emails to Customer C with incentives like “Double Points Week” or “Try Sushi for Bonus Rewards.”
+  - Offer a welcome-back discount or free item after a period of inactivity.
+- Refine the loyalty program:
+  - Consider adding more product-specific multipliers to influence purchasing behavior.
+  - Track redemption rates and adjust point thresholds to maintain profitability.
+___
+
+
+
 
 
