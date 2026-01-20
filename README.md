@@ -15,7 +15,7 @@ ___
 ## PROBLEM STATEMENT.
 Danny, the restaurant owner, wants to better understand his customers to improve the loyalty program.
 He is particularly interested in analyzing how often customers visit, how much they spend, and which menu items are most popular.
-Due to privacy concerns, only a sample of the overall customer data was provided. I will be using the provided data to write fully functioning SQL queries and generate datasets that can be easily inspected without needing to run SQL.
+Due to privacy concerns, only a sample of the overall customer data was provided. I used the provided data to write fully functioning SQL queries and generate datasets that can be easily inspected without needing to run SQL.
 ___
 
 ## BUSINESS QUESTIONS.
@@ -89,5 +89,10 @@ ___
 - **Purchase Before Membership:** Which item was purchased just before the customer became a member?
 
 ![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(8).png?raw=true)
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/Which%20item%20was%20purchased%20just%20before%20the%20customer%20became%20a%20member.png?raw=true)
+___
+
+- **Total Items & Spending Before Membership:** What is the total number of items and total amount spent for each customer before they became a member?
+![image alt](
 
 
