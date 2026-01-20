@@ -60,6 +60,9 @@ ___
   - Track redemption rates and adjust point thresholds to maintain profitability.
 ___
 
+- **Visit Frequency:** How many days has each customer visited the restaurant?
+![image alt](
+
 
 
 
