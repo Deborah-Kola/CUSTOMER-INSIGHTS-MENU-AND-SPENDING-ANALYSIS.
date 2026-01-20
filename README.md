@@ -12,13 +12,13 @@ The goal of this analysis is to uncover insights into customer visiting patterns
 i demonstrated how SQL can transform raw data into actionable business insights that help the restaurant create a more personalized and engaging experience for its customers.
 ___
 
-## PROBLEM STATEMENT
+## PROBLEM STATEMENT.
 Danny, the restaurant owner, wants to better understand his customers to improve the loyalty program.
 He is particularly interested in analyzing how often customers visit, how much they spend, and which menu items are most popular.
 Due to privacy concerns, only a sample of the overall customer data was provided. I will be using the provided data to write fully functioning SQL queries and generate datasets that can be easily inspected without needing to run SQL.
 ___
 
-## BUSINESS QUESTIONS
+## BUSINESS QUESTIONS.
 I answered the following questions provided by the restaurant owner:
 
 - Points Calculation: If each $1 spent equates to 10 points and sushi has a 2× points multiplier, how many points would each customer have? 
@@ -33,4 +33,10 @@ I answered the following questions provided by the restaurant owner:
 - **Points in First Week of Membership:** In the first week after joining (including the join date), customers earn 2× points on all items (not just sushi). How many points do Customer A and Customer B have at the end of January?  
 
 Each question is answered using SQL queries, and the results are documented in this repository to provide actionable insights for the restaurant owner.
+___
+## RESULTS, INSIGHT AND RECOMMENDATION.
+- Points Calculation: If each $1 spent equates to 10 points and sushi has a 2× points multiplier, how many points would each customer have?
+
+![image alt](
+
 
