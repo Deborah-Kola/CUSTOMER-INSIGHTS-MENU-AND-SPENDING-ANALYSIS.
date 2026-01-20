@@ -88,6 +88,6 @@ ___
 
 - **Purchase Before Membership:** Which item was purchased just before the customer became a member?
 
-![image alt](
+![image alt](https://github.com/Deborah-Kola/CUSTOMER-INSIGHTS-MENU-AND-SPENDING-ANALYSIS./blob/main/danny's%20Diner%20github/carbon%20(8).png?raw=true)
 
 
