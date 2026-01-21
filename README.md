@@ -107,24 +107,34 @@ ___
 
 ___
 
-## OVERALL INSIGHTS
+## OVERALL INSIGHTS.
 After running the analysis, I was able to discover some insights based on the data provided;
-- Customer A is the top spender and most active
-   A spent the most money, earned the most points, and visited the restaurant frequently.
-- Sushi earns the most points
+- Customer A is the top spender and most active,
+  customer A spent the most money, earned the most points, and visited the restaurant frequently.
+- Sushi earns the most points,
    Because sushi gives double points, customers who buy it get rewarded faster.
-- Ramen is the most loved item
+- Ramen is the most loved item,
    It was bought more than any other dish, showing strong customer preference.
-- Each customer has a favorite dish
-   A prefers ramen, B prefers sushi, and C also likes ramen. This shows individual taste patterns.
-- Membership influences buying behavior
+- Each customer has a favorite dish,
+  customer A prefers ramen, customer B prefers sushi, and customer C also likes ramen. This shows individual taste patterns.
+- Membership influences buying behavior,
   Customers change what they buy after becoming members, showing that the loyalty program affects choices.
-- Some customers are less engaged
+- Some customers are less engaged,
    Customer C visits less often and spends less, which means they might need extra attention.
 ___
 
-## OVERALL RECOMMENDATIONS
+## OVERALL RECOMMENDATIONS.
 From the insights discovered, here are my recommendations for the danny diners business;
+
+- Reward your best customers, Give special offers or early access to Customer A and B to keep them coming back.
+- Use sushi to boost loyalty, Promote sushi as a “double points” item to encourage more purchases and faster point earning.
+- Feature ramen in promotions, Since it’s the most popular dish, use it in ads, bundles, or discounts to attract more customers.
+- Personalize offers based on favorites, Send ramen deals to customer A and C, and sushi deals to customer B. This makes customers feel understood.
+- Make membership more exciting, Show how joining gives better rewards, and maybe offer a welcome gift to new members.
+- Re-engage quiet customers, Send reminders or small discounts to C to encourage more visits and spending.
+
+
+
 
 
 
