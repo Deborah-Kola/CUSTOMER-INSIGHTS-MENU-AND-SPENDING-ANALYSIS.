@@ -107,6 +107,25 @@ ___
 
 ___
 
+## OVERALL INSIGHTS
+After running the analysis, I was able to discover some insights based on the data provided;
+- Customer A is the top spender and most active
+   A spent the most money, earned the most points, and visited the restaurant frequently.
+- Sushi earns the most points
+   Because sushi gives double points, customers who buy it get rewarded faster.
+- Ramen is the most loved item
+   It was bought more than any other dish, showing strong customer preference.
+- Each customer has a favorite dish
+   A prefers ramen, B prefers sushi, and C also likes ramen. This shows individual taste patterns.
+- Membership influences buying behavior
+  Customers change what they buy after becoming members, showing that the loyalty program affects choices.
+- Some customers are less engaged
+   Customer C visits less often and spends less, which means they might need extra attention.
+___
+
+## OVERALL RECOMMENDATIONS
+From the insights discovered, here are my recommendations for the danny diners business;
+
 
 
 
