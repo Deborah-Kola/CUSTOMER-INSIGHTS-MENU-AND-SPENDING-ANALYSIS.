@@ -3,7 +3,7 @@
 
 SQL case study analyzing customer visiting patterns, spending, and menu preferences to support a loyalty program.
 ___
-## BY DEBORAH KOLA, TEMITOPE.
+## BY DEBORAH OLUFIADE, TEMITOPE.
 ___
 ## INTRODUCTION.
 
